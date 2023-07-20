@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋</h1>
-<hr />
 
 [<img alt="Linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />][linkedin]
 [<img alt="Linkedin" src="https://img.shields.io/badge/About-me-blue?style=for-the-badge&logoColor=white" />][about me]
