@@ -50,3 +50,55 @@ Web framework benchmark. This projects has two main goals :
 
 
 :information_source: The most important requirements are : **compensaton** and **remote**. The others are mostly subjectives, depending on the client context
+
+
+## Which value can I bring ?
+
+I can almost argue with my differents strategies / approches, I can not garantee it will work on you context. Like in investment, I can say that _Past performance is no guarantee of future results_.
+
+However, I can expose you my step-by-step strategy to understand **your** business context :rocket: :
+
+#### First(s) week(s)
+
++ Getting in touch with team members
+> What interest me is **human**, that could help with _management_
++ Small contributions to callibrate the approach to adopt
++ Deeper discussions with my teammeated to put forward team strength :strong:
+
+#### Major contributions
+
++ More business valuable tasks
++ Security audit
++ Onbarding new members 
+> I find that DX (Developer eXperience) is very important, and often a key of success
+
+
+## Moving forward
+
++ Build custom development process, related to business context
+> Spot bottleneck and try to remove them (bottleneck could be opposed to scalability)
++ Formal meeting with each team members
+> To make sure that each teammate could have a clear career path in this company
+
+## My pledge
+
+:information_source: Curiosity & learning
+
+A key of success is to **know** each person you are working with. 
+
+
+## My anti-pledge
+
+In companies I had work with I have seen many scenarios that could lead to toxic athmosphere
+
++ Impose instead of _propose_
++ Put pressure on instead of _trust_
++ Find a five legged sheep instead of a _specialist_
++ Bring ahead mistaks instead of _find / solving the causes_
+
+## Deeper discussion ?
+
+Thanks for you time, I hope this bring you some interest
+
+💌 Contact me at [marwan@rabbaa.fr](mailto:marwan@rabbaa.fr) if you think we can work together
+
