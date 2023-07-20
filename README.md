@@ -12,3 +12,10 @@
 - 🌱 I’m currently learning **Kotlin and Spring**
 
 - 📫 You can reach me at [waghanza@gmail.com](mailto:waghanza@gmail.com)
+
+<br />
+
+<p align="left"><img src="https://github-readme-stats.vercel.app/api?username=waghanza&show_icons=true&locale=en" alt="Github contributions" /> </p>
+
+<br />
+
