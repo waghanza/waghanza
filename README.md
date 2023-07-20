@@ -1,9 +1,19 @@
 <h1 align="center">Hi 👋</h1>
-<br />
+<hr />
 
-<p align="left"><img src="https://skillicons.dev/icons?i=ruby,rails,crystal,python,flask,fastapi,aws,heroku,postgres,git,github,bash,docker" alt="Tech Stack" /> </p>
+[<img alt="Linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />][linkedin]
+[<img alt="Linkedin" src="https://img.shields.io/badge/About-me-blue?style=for-the-badge&logoColor=white" />][about me]
 
-<br />
+
+
+[linkedin]: https://www.linkedin.com/in/rabbaamarwan/
+[about me]: [/waghanza/blob/main/about.en.md]
+
+<hr />
+
+<p align="center"><img src="https://skillicons.dev/icons?i=ruby,rails,crystal,python,flask,fastapi,aws,heroku,postgres,git,github,bash,docker" alt="Tech Stack" /> </p>
+
+<hr />
 
 - 🗣 Languages: [**Ruby** ❤️](https://www.ruby-lang.org) - [Python](https://www.python.org) - [Crystal](https://crystal-lang.org)
 
