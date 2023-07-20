@@ -1,4 +1,4 @@
-:fr: Also available in [french](about-me.fr.md)
+:fr: Also available in [french](about.fr.md)
 
 ## Hide me
 

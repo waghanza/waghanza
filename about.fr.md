@@ -1,4 +1,4 @@
-:gb: Aussi disponible en [angalis](about-me.en.md)
+:gb: Aussi disponible en [angalis](about.en.md)
 
 ## Me recruter
 
