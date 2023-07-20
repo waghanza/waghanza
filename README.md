@@ -5,7 +5,7 @@
 
 <br />
 
-- 🗣 Languages: [**Ruby** ❤️](https://www.ruby-lang.org) - [Python](https://www.python.org) - [Crystal][https://crystal-lang.org)
+- 🗣 Languages: [**Ruby** ❤️](https://www.ruby-lang.org) - [Python](https://www.python.org) - [Crystal](https://crystal-lang.org)
 
 - 🔭 I’m currently working on [a benchmark of web frameworks](https://github.com/the-benchmarker/web-frameworks)
 
