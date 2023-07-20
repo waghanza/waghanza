@@ -7,7 +7,7 @@
 
 
 [linkedin]: https://www.linkedin.com/in/rabbaamarwan/
-[about me]: waghanza/blob/main/about.en.md
+[about me]: blob/main/about.en.md
 
 <hr />
 
