@@ -23,13 +23,6 @@ I am in **Ruby**land - mosly using **Ruby on Rails** - since more than _10 years
 
 Therefore I'm open to learn new tech if needed.
 
-## My online presence
-
-- <img width="16" height="16" src="https://skillicons.dev/icons?i=github"> https://github.com/waghanza
-- <img width="16" height="16" src="https://skillicons.dev/icons?i=linkedin"> https://www.linkedin.com/in/rabbaamarwan
-- <img width="16" height="16" src="https://www.doyoubuzz.com/favicon.ico"> https://www.doyoubuzz.com/marwan-rabbaa
-- <img width="16" height="16" src="https://cdn.cookielaw.org/logos/05ac99e5-12b5-453a-9d34-cab6cc8b270a/a2ec2e66-d97f-4e33-bc95-66bed1fa8446/malt_picto_color.png"> https://www.malt.fr/profile/marwanrabbaa1
-
 ## Sélection de mes projets
 
 + https://github.com/the-benchmarker/web-frameworks
