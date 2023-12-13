@@ -1,6 +1,6 @@
 :fr: Also available in [french](about.fr.md)
 
-## Hide me
+## Hire me
 
 Welcome abroad. 
 
